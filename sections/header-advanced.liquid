@@ -41,6 +41,13 @@
       .layout_rtl .header__group .header__icon--cart svg {
         margin-left: 0;
       }
+      .pos-rel {
+        position: relative;
+      }
+      .pos-abs-right-0 {
+        position: relative;
+        right: 0;
+      }
       .layout_rtl .header-top--wrapper .quickSearchResultsWrap {
         left: auto;
         right: 0;
@@ -279,13 +286,13 @@
                     >
                       <a
                         href="{{ routes.cart_url }}"
-                        class="header__icon header__icon--cart link link--text focus-inset cart-icon-bubble"
+                        class="header__icon header__icon--cart link link--text focus-inset cart-icon-bubble pos-rel"
                         {% if settings.show_quick_cart %}
                           data-cart-sidebar
                         {% endif %}
                       >
                         {% render 'icon-cart-03' %}
-                        <div class="header-advanced-textRight">
+                        <div class="header-advanced-textRight pos-abs-right-0">
                           <div class="cart-count-bubble">
                             {%- if cart.item_count < 100 -%}
                               <span class="text" aria-hidden="true" data-cart-count>{{ cart.item_count }}</span>
