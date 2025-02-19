@@ -43,7 +43,7 @@
             "cart_bg_item": "#dc3545",
             "cart_color_item": "#f8f8f8",
             "cart_item_font_size": 12,
-            "show_wishlist": false,
+            "show_wishlist": true,
             "wishlist_color": "#f8f8f8",
             "show_account": true,
             "customer_color": "#f8f8f8",
