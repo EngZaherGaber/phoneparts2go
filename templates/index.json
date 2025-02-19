@@ -405,10 +405,9 @@
         "82983881-f277-42c8-8245-836ef058df6f",
         "9ac57bbd-522f-4306-859e-053204be6511"
       ],
-      "disabled": true,
       "settings": {
         "container": "fullwidth",
-        "padding_full_width": 0,
+        "padding_full_width": 15,
         "mg_top_desktop": 0,
         "mg_top_tablet": 0,
         "mg_top_mobile": 0,
@@ -583,7 +582,6 @@
         "afec96f3-c7c7-45d8-a840-a4da078cbf52",
         "0ea1496e-199b-4fa3-b832-f3dcedf90eec"
       ],
-      "disabled": true,
       "settings": {
         "container": "container",
         "padding_full_width": 0,
@@ -822,7 +820,6 @@
         "16342924847ce35dfd-1",
         "16342924847ce35dfd-2"
       ],
-      "disabled": true,
       "settings": {
         "container": "container",
         "padding_full_width": 0,
@@ -946,7 +943,6 @@
         "0f7ada43-05a9-4961-b046-79bb956e37aa",
         "7065c378-c4fd-4121-b1a9-10e45f1798eb"
       ],
-      "disabled": true,
       "settings": {
         "container": "container",
         "padding_full_width": 0,
