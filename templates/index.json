@@ -17,7 +17,7 @@
           "settings": {
             "fontsize_text": 40,
             "fontsize_text_mb": 24,
-            "color_title": "#ffffff",
+            "color_title": "#251d50",
             "spacing_top": 0,
             "spacing_bottom": 17
           }
@@ -39,7 +39,7 @@
           "settings": {
             "word_number": "17",
             "fontsize_text": 16,
-            "color_text": "#ffffff",
+            "color_text": "#251d50",
             "spacing_top": 0,
             "spacing_bottom": 24
           }
@@ -61,7 +61,7 @@
             "fontsize_text": 16,
             "content_spacing": 0,
             "custom_block_align": "left",
-            "color_title": "#ffffff",
+            "color_title": "#251d50",
             "background_color_block": "rgba(0,0,0,0)",
             "background_gradient_color_block": "",
             "spacing_top": 0,
@@ -73,7 +73,7 @@
           "settings": {
             "picker_type": "button",
             "show_variant_image_group": false,
-            "color_label": "#ffffff",
+            "color_label": "#3c3c3c",
             "enable_border_top": false,
             "enable_border_bottom": false,
             "color_border": "#e6e6e6",
@@ -84,11 +84,11 @@
         "quantity_selector_zewUn3": {
           "type": "quantity_selector",
           "settings": {
-            "qty_style": "1",
+            "qty_style": "2",
             "qty_layout": "2",
-            "color_qty_label": "#ffffff",
-            "color_qty_input": "#f2f5ff",
-            "bg_color_qty_input": "#ffffff",
+            "color_qty_label": "#251d50",
+            "color_qty_input": "#251d50",
+            "bg_color_qty_input": "#251d50",
             "spacing_top": 0,
             "spacing_bottom": 0
           }
@@ -99,35 +99,35 @@
             "show_dynamic_checkout": true,
             "fontsize_text": 14,
             "checkbox_color": "#ffffff",
-            "checkbox_border_color": "#494a4d",
+            "checkbox_border_color": "rgba(0,0,0,0)",
             "spacing_top": 0,
             "spacing_bottom": 15,
             "color_qty_label": "#ffffff",
-            "color_qty_input": "#f2f5ff",
+            "color_qty_input": "#251d50",
             "bg_color_qty_input": "rgba(0,0,0,0)",
-            "wishlist_color": "#747474",
-            "wishlist_border_color": "#121212",
-            "wishlist_bg_color": "#121212",
+            "wishlist_color": "#ededed",
+            "wishlist_border_color": "rgba(0,0,0,0)",
+            "wishlist_bg_color": "#e95144",
             "wishlist_color_hover": "#ffffff",
             "wishlist_border_color_hover": "#3faeea",
             "wishlist_bg_color_hover": "#3faeea",
-            "atc_animation": "horizontal-shaking",
+            "atc_animation": "tilt-shaking",
             "atc_color": "#ffffff",
             "atc_border_color": "rgba(0,0,0,0)",
-            "atc_bg_color": "rgba(0,0,0,0)",
-            "atc_bg_color_gradient": "linear-gradient(90deg, rgba(48, 188, 237, 1), rgba(127, 72, 176, 1) 50%, rgba(229, 26, 203, 1) 100%)",
+            "atc_bg_color": "#251d50",
+            "atc_bg_color_gradient": "",
             "atc_color_hover": "#ffffff",
             "atc_border_color_hover": "rgba(0,0,0,0)",
-            "atc_bg_color_hover": "rgba(0,0,0,0)",
-            "atc_bg_color_gradient_hover": "linear-gradient(#000, #000) padding-box,        linear-gradient(90deg, rgba(48, 188, 237, 1), rgba(127, 72, 176, 1) 50%, rgba(229, 26, 203, 1) 100%) border-box",
-            "bin_color": "#ffffff",
+            "atc_bg_color_hover": "#251d50",
+            "atc_bg_color_gradient_hover": "",
+            "bin_color": "#ededed",
             "bin_border_color": "rgba(0,0,0,0)",
-            "bin_bg_color": "rgba(0,0,0,0)",
-            "bin_bg_color_gradient": "linear-gradient(#000, #000) padding-box,        linear-gradient(90deg, rgba(48, 188, 237, 1), rgba(127, 72, 176, 1) 50%, rgba(229, 26, 203, 1) 100%) border-box",
+            "bin_bg_color": "#251d50",
+            "bin_bg_color_gradient": "",
             "bin_color_hover": "#ffffff",
             "bin_border_color_hover": "rgba(0,0,0,0)",
-            "bin_bg_color_hover": "rgba(0,0,0,0)",
-            "bin_bg_color_hover_gradient": "linear-gradient(90deg, rgba(48, 188, 237, 1), rgba(127, 72, 176, 1) 50%, rgba(229, 26, 203, 1) 100%)"
+            "bin_bg_color_hover": "#251d50",
+            "bin_bg_color_hover_gradient": ""
           }
         }
       },
@@ -3695,8 +3695,8 @@
     }
   },
   "order": [
-    "featured_product_xfU3N6",
     "16321237356a896dad",
+    "featured_product_xfU3N6",
     "1634272671c17064b9",
     "16342924847ce35dfd",
     "16370373078e5a27e7",
