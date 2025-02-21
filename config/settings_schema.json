@@ -6863,7 +6863,7 @@
     "settings": [
       {
         "type": "header",
-        "content": "t:settings_schema.colors.settings.color_base"
+        "content": "t:settings_schema.colors.settings.colors_name.color_base"
       },
       {
         "type": "header",
