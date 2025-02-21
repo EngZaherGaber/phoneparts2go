@@ -6865,7 +6865,7 @@
         "id": "colors_bg_base",
         "type": "color",
         "default": "#f9f9f9",
-        "label": "t:settings_schema.colors.settings.colors_name.base_color"
+        "label": "t:settings_schema.colors.settings.colors_name.color_base"
       },
       {
         "type": "header",
