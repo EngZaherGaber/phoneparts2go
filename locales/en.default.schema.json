@@ -5,6 +5,7 @@
       "settings": {
         "colors_name": {
           "color_product": "Colors (Products)",
+          "color_base": "Base Color",
           "product_card": "Set up for Product Card",
           "color": "Color",
           "color_mobile": "Color Mobile",
